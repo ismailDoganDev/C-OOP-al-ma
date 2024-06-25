@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calisma", "calisma\calisma.csproj", "{591DC9F4-E11D-4005-98AF-D07C4FE0FC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2B397986-17AC-4FA8-B357-DB37716D7273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591DC9F4-E11D-4005-98AF-D07C4FE0FC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591DC9F4-E11D-4005-98AF-D07C4FE0FC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591DC9F4-E11D-4005-98AF-D07C4FE0FC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591DC9F4-E11D-4005-98AF-D07C4FE0FC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B397986-17AC-4FA8-B357-DB37716D7273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B397986-17AC-4FA8-B357-DB37716D7273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B397986-17AC-4FA8-B357-DB37716D7273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B397986-17AC-4FA8-B357-DB37716D7273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1078FFB1-B02A-4A55-999A-6D325E665CE8}
+	EndGlobalSection
+EndGlobal
